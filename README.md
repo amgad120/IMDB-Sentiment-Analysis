@@ -1,7 +1,5 @@
 # 🎬 IMDB Sentiment Analysis
-<p align="center">
-  <img src="banner.png" alt="IMDB Sentiment Analysis Banner" width="100%">
-</p>
+<img src="assets/banner.png" alt="IMDB Sentiment Analysis Banner" width="100%">
 
 An end-to-end Natural Language Processing project for **binary sentiment classification of movie reviews** using traditional Machine Learning, Deep Learning, and Transformer-based models.
 
